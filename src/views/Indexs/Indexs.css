@@ -1,0 +1,21 @@
+.dls{
+    width:100%;height:100%;display: flex;flex-direction: column;
+}
+.bot{
+    height: .96rem;width:100%;display: flex;font-size: .14rem;border-top:1px solid #ccc;
+}
+.lis{
+    flex:1;display: flex;text-align: center;flex-direction: column;padding-top:.1rem;
+}
+.lis span {
+    font-size: .25rem;
+}
+.lis span i {
+    font-size: .4rem;
+}
+.top{
+    flex:1;overflow-y: scroll;
+}
+.tab-style{
+    color: red;
+}

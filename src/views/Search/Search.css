@@ -1,0 +1,6 @@
+#search li{
+    display: inline-block;padding: 5px 10px;border:1px solid #ccc;border-radius: 5px;margin-left: .2rem;
+}
+#search header{
+    padding: 10px;
+}

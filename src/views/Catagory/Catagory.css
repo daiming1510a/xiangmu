@@ -1,0 +1,18 @@
+.catagory-wrap{
+    display: flex;
+}
+.left-slide{
+    width:40%;
+}
+.left-side>ul{
+    background: pink;color: #999;border-left:2px solid #ccc;line-height: .8rem;
+    text-align: center
+}
+.catagory-active{
+    background: #fff;
+    color: skyblue;
+    border-left:2px solid red
+}
+.right-side{
+    flex:1;
+}
